@@ -9,12 +9,12 @@
     </a>
 </p>
 
+This is a sample project for my medium article
+
 <div>
 <img src="https://miro.medium.com/max/444/1*j1t6aWGuzTGuos_2QlB5sg.gif" />
 <img src="https://miro.medium.com/max/444/1*Qjy6-P4JoM94Ffmv7SGl8Q.gif" />
 </div>
-
-This is a sample project for my medium article
 
 <div> 
 <img src="https://miro.medium.com/max/444/1*LdK1ivktb8WG41BC2qIBjQ.gif" />
