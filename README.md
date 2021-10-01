@@ -1,5 +1,6 @@
 # UIViewAnimationMedium
 <p align="left">
+    <img src="https://img.shields.io/badge/XCode-13-red.svg" />
     <img src="https://img.shields.io/badge/ios-14.0+-blue.svg" />
     <img src="https://img.shields.io/badge/Swift-5.5-brightgreen.svg" />
     <a href="https://github.com/kyaw-codes/MusicBox/blob/master/LICENSE">
