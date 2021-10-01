@@ -9,7 +9,7 @@
     </a>
 </p>
 
-This is a sample project for my medium article
+This is a sample project for my medium article. <a href="https://kyaw-monkey.medium.com/convenience-uikit-apis-for-cool-animation-effects-in-burmese-8a8ef85fd3fc">Read article</a>
 
 <div>
 <img src="https://miro.medium.com/max/444/1*j1t6aWGuzTGuos_2QlB5sg.gif" />
