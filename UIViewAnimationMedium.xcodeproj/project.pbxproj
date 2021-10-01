@@ -3,10 +3,12 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		028BC03A2700448D00C2F1FA /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028BC0392700448D00C2F1FA /* ViewControllerTwo.swift */; };
+		029617012700B43300B0F58E /* ViewControllerThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029617002700B43300B0F58E /* ViewControllerThree.swift */; };
 		02BD830526FF441500B040BE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BD830426FF441500B040BE /* AppDelegate.swift */; };
 		02BD830726FF441500B040BE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BD830626FF441500B040BE /* SceneDelegate.swift */; };
 		02BD830926FF441500B040BE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BD830826FF441500B040BE /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		028BC0392700448D00C2F1FA /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
+		029617002700B43300B0F58E /* ViewControllerThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerThree.swift; sourceTree = "<group>"; };
 		02BD830126FF441500B040BE /* UIViewAnimationMedium.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIViewAnimationMedium.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02BD830426FF441500B040BE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		02BD830626FF441500B040BE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				02BD830426FF441500B040BE /* AppDelegate.swift */,
 				02BD830626FF441500B040BE /* SceneDelegate.swift */,
 				02BD830826FF441500B040BE /* ViewController.swift */,
+				028BC0392700448D00C2F1FA /* ViewControllerTwo.swift */,
+				029617002700B43300B0F58E /* ViewControllerThree.swift */,
 				02BD830A26FF441500B040BE /* Main.storyboard */,
 				02BD830D26FF441800B040BE /* Assets.xcassets */,
 				02BD830F26FF441800B040BE /* LaunchScreen.storyboard */,
@@ -102,7 +108,7 @@
 				};
 			};
 			buildConfigurationList = 02BD82FC26FF441500B040BE /* Build configuration list for PBXProject "UIViewAnimationMedium" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -137,8 +143,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				029617012700B43300B0F58E /* ViewControllerThree.swift in Sources */,
 				02BD830926FF441500B040BE /* ViewController.swift in Sources */,
 				02BD830526FF441500B040BE /* AppDelegate.swift in Sources */,
+				028BC03A2700448D00C2F1FA /* ViewControllerTwo.swift in Sources */,
 				02BD830726FF441500B040BE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
